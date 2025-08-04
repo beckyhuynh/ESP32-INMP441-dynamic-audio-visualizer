@@ -21,4 +21,6 @@ https://www.youtube.com/watch?v=Mgh2WblO5_c&ab_channel=ScottMarley
 https://doc-tft-espi.readthedocs.io/graphics/
 https://www.youtube.com/watch?v=9CI4Y2V4sxE&ab_channel=AkashMurthy
 
+Notice:
+This project works best with some kind of noise amplifier or loud music playing. I used my fender amp to make the music more alive for the mic. The mic is not very sensitive with regular microphone or laptop speaker.
 
