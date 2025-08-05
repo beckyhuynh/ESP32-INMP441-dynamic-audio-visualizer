@@ -1,6 +1,10 @@
 # INMP441-dynamic-music-visualizer
 Music visualizer using esp32 and inmp441 mic that takes live music/ audio and displays it on ili9341 tft lcd screen
 
+Inspired by youtube visualizers whenever i looked up songs: I like music and wanted to make my own visualizer
+<img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/80d987a9-5d6b-4a62-965f-78e155c0d62f" />
+
+
 Wiring guide:
 From esp32 to tft lcd
 <img width="975" height="878" alt="image" src="https://github.com/user-attachments/assets/0c9e6e78-e8b9-406a-a6df-08e9d42102d8" />
@@ -13,7 +17,8 @@ From esp32 to mic
 Demonstration:
 
 
-Sources for some of the research I did that allowed me to dive deeper into the project: special thanks to scott marley for making the fft band logic clearer to understand
+Sources for some of the research I did that allowed me to dive deeper into the project: special thanks to scott marley for making the fft band logic clearer to understand:
+
 https://github.com/atomic14/esp32-i2s-mic-test
 https://www.youtube.com/watch?v=UkJIMCtsypo&ab_channel=OwenO%27Brien
 https://www.youtube.com/watch?v=m8LwPNXqK9o&t=98s&ab_channel=ThatProject
@@ -21,6 +26,6 @@ https://www.youtube.com/watch?v=Mgh2WblO5_c&ab_channel=ScottMarley
 https://doc-tft-espi.readthedocs.io/graphics/
 https://www.youtube.com/watch?v=9CI4Y2V4sxE&ab_channel=AkashMurthy
 
-Notice:
-This project works best with some kind of noise amplifier or loud music playing. I used my fender amp to make the music more alive for the mic. The mic is not very sensitive with regular microphone or laptop speaker.
+Important notice:!!
+This project works best with some kind of noise amplifier or LOUD music playing. I used my fender amp to make the music more alive for the mic. The mic is not very sensitive with regular microphone or laptop speaker, the bars will barely spike. This is likely attributed to cheaper manufacturing of the mic, but for my purpose it works. :>
 
