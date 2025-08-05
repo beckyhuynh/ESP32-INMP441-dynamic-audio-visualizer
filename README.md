@@ -13,9 +13,13 @@ From esp32 to mic
 
 <img width="724" height="444" alt="image" src="https://github.com/user-attachments/assets/9a7b7f42-4fab-4f4d-bd72-12599431b6f3" />
 
+Product:
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7b151cea-e7f3-47e1-9e80-303d04a33fc7" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae7de784-8e72-4134-ba54-cb60573890e1" />
+
 
 Demonstration:
-
+- will put youtube link later for actual songs
 
 Sources for some of the research I did that allowed me to dive deeper into the project: special thanks to scott marley for making the fft band logic clearer to understand:
 
