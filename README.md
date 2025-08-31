@@ -2,8 +2,10 @@
 ## PURPOSE:
 - Music visualizer using esp32 and inmp441 mic that takes live music/ audio and displays it on ili9341 tft lcd screen, via a bar graph/ circular rotating display
 - Inspired by music visualizers that can be found when you search up audios for certain songs. I wanted to make my own version using hardware.
-<img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/80d987a9-5d6b-4a62-965f-78e155c0d62f" />
 
+<p align="center">
+  <img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/80d987a9-5d6b-4a62-965f-78e155c0d62f" />
+</p>
 
 ## HARDWARE:
 ### 1. Parts used: (all parts can be found on Amazon)
