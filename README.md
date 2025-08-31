@@ -49,9 +49,9 @@ https://drive.google.com/drive/folders/12u9cZiUxfz3R1oFt0d3_5P34Rd-_aWLp?usp=sha
 ## SOURCES
 - Sources for the research I did that allowed me to dive deeper into the project:
 
-[How to use ESP32 with the ILLI9341 board (libraries and more]([https://example.com/article](https://randomnerdtutorials.com/esp32-tft-touchscreen-display-2-8-ili9341-arduino/))
-[Code test to see if your isolated mic works](https://github.com/atomic14/esp32-i2s-mic-test)
-[Overview for INMP441 mic](https://www.youtube.com/watch?v=UkJIMCtsypo&ab_channel=OwenO%27Brien)
-[Amazing video for structuring a visualizer inspiration (only for a led matrix and not lcd display)](https://www.youtube.com/watch?v=Mgh2WblO5_c&ab_channel=ScottMarley)
-[Functions for drawing on ILLI9341](https://doc-tft-espi.readthedocs.io/graphics/)
-[What is root mean square](https://www.youtube.com/watch?v=9CI4Y2V4sxE&ab_channel=AkashMurthy)
+- [How to use ESP32 with the ILLI9341 board (libraries and more)]([https://example.com/article](https://randomnerdtutorials.com/esp32-tft-touchscreen-display-2-8-ili9341-arduino/))
+- [Code test to see if your isolated mic works](https://github.com/atomic14/esp32-i2s-mic-test)
+- [Overview for INMP441 mic](https://www.youtube.com/watch?v=UkJIMCtsypo&ab_channel=OwenO%27Brien)
+- [Amazing video for structuring a visualizer inspiration (only for a led matrix and not lcd display)](https://www.youtube.com/watch?v=Mgh2WblO5_c&ab_channel=ScottMarley)
+- [Functions for drawing on ILLI9341](https://doc-tft-espi.readthedocs.io/graphics/)
+- [What is root mean square](https://www.youtube.com/watch?v=9CI4Y2V4sxE&ab_channel=AkashMurthy)
