@@ -13,7 +13,16 @@
 - ILLI9341 TFT LCD display
 - INMP441 microphone (**make sure you solder the legs(pins) onto the circular main part before using, most mics come delivered without being soldered**)
 
-### 2. Wiring guide:
+### 2. Hardware overview:
+<p align="center">
+  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/7b151cea-e7f3-47e1-9e80-303d04a33fc7" />
+</p>
+
+<p align="center">
+  <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/ae7de784-8e72-4134-ba54-cb60573890e1" />
+</p>
+
+### 3. Wiring guide:
 #### - From esp32 to tft lcd:
 
 <p align="center">
@@ -25,18 +34,8 @@
   <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9a7b7f42-4fab-4f4d-bd72-12599431b6f3" />
 </p>
 
-### 3. Hardware overview:
-<p align="center">
-  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/7b151cea-e7f3-47e1-9e80-303d04a33fc7" />
-</p>
 
-<p align="center">
-  <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/ae7de784-8e72-4134-ba54-cb60573890e1" />
-</p>
-
-
-
-## 🎆🎆VISUAL DEMO 🎆🎆
+## 🎆🎆FINAL VISUAL DEMO 🎆🎆
 - please click on this GOOGLE DRIVE link for the different visualizers to different songs. suggestions for new songs? :>
 https://drive.google.com/drive/folders/12u9cZiUxfz3R1oFt0d3_5P34Rd-_aWLp?usp=sharing
 
