@@ -13,17 +13,17 @@
 - ILLI9341 TFT LCD display
 - INMP441 microphone (**make sure you solder the legs(pins) onto the circular main part before using, most mics come delivered without being soldered**)
 
-### Wiring guide:
-#### From esp32 to tft lcd:
+### 2. Wiring guide:
+#### - From esp32 to tft lcd:
 
 <p align="center">
-  <img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/0c9e6e78-e8b9-406a-a6df-08e9d42102d8" />
+  <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/0c9e6e78-e8b9-406a-a6df-08e9d42102d8" />
 </p>
 
-#### From esp32 to mic:
+#### - From esp32 to mic:
 <img width="724" height="444" alt="image" src="https://github.com/user-attachments/assets/9a7b7f42-4fab-4f4d-bd72-12599431b6f3" />
 
-#### Hardware overview:
+### 3. Hardware overview:
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7b151cea-e7f3-47e1-9e80-303d04a33fc7" />
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae7de784-8e72-4134-ba54-cb60573890e1" />
 
