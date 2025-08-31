@@ -36,7 +36,7 @@
 
 
 ## 🎆🎆FINAL VISUAL DEMO 🎆🎆
-- please click on this GOOGLE DRIVE link for the different visualizers to different songs. suggestions for new songs? :>
+- click on this GOOGLE DRIVE link for the different visualizers to different songs. suggestions for new songs? :>
 https://drive.google.com/drive/folders/12u9cZiUxfz3R1oFt0d3_5P34Rd-_aWLp?usp=sharing
 
 
