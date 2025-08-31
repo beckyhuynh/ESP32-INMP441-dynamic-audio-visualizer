@@ -15,7 +15,10 @@
 
 ### Wiring guide:
 #### From esp32 to tft lcd:
-<img width="975" height="878" alt="image" src="https://github.com/user-attachments/assets/0c9e6e78-e8b9-406a-a6df-08e9d42102d8" />
+
+<p align="center">
+  <img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/0c9e6e78-e8b9-406a-a6df-08e9d42102d8" />
+</p>
 
 #### From esp32 to mic:
 <img width="724" height="444" alt="image" src="https://github.com/user-attachments/assets/9a7b7f42-4fab-4f4d-bd72-12599431b6f3" />
