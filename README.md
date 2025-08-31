@@ -36,21 +36,22 @@
 
 
 ## 🎆🎆FINAL VISUAL DEMO 🎆🎆
-- click on this GOOGLE DRIVE link for the different visualizers to different songs. suggestions for new songs? :>
+- GOOGLE DRIVE link for the different visualizers to different songs. suggestions for new songs? :>
 https://drive.google.com/drive/folders/12u9cZiUxfz3R1oFt0d3_5P34Rd-_aWLp?usp=sharing
 
 
 ## Important notice and final notes:
-- This project works best with some kind of noise amplifier or LOUD music playing. I used my fender amp to make the music more alive for the mic.
-- The mic is not very sensitive with regular microphone or laptop speaker, the bars will barely spike. This might be due to the manufacturing of the mic, since it is not a professional recording mic, or could also be due to the root mean square method which better detects PEAKS in loud sounds.
+- This project works best with some kind of noise amplifier or LOUD music playing. I used my fender guitar amp to make the music more alive for the mic.
+- The mic is not very sensitive with regular microphone or laptop speaker, the bars will barely spike.
+- This might be due to the manufacturing of the mic, since it is not a professional recording mic, or could also be due to the root mean square method which better detects PEAKS in loud sounds.
 
   
 ## SOURCES
-- Sources for some of the research I did that allowed me to dive deeper into the project:
+- Sources for the research I did that allowed me to dive deeper into the project:
 
-https://github.com/atomic14/esp32-i2s-mic-test
-https://www.youtube.com/watch?v=UkJIMCtsypo&ab_channel=OwenO%27Brien
-https://www.youtube.com/watch?v=m8LwPNXqK9o&t=98s&ab_channel=ThatProject
-https://www.youtube.com/watch?v=Mgh2WblO5_c&ab_channel=ScottMarley
-https://doc-tft-espi.readthedocs.io/graphics/
-https://www.youtube.com/watch?v=9CI4Y2V4sxE&ab_channel=AkashMurthy
+[How to use ESP32 with the ILLI9341 board (libraries and more]([https://example.com/article](https://randomnerdtutorials.com/esp32-tft-touchscreen-display-2-8-ili9341-arduino/))
+[Code test to see if your isolated mic works](https://github.com/atomic14/esp32-i2s-mic-test)
+[Overview for INMP441 mic](https://www.youtube.com/watch?v=UkJIMCtsypo&ab_channel=OwenO%27Brien)
+[Amazing video for structuring a visualizer inspiration (only for a led matrix and not lcd display)](https://www.youtube.com/watch?v=Mgh2WblO5_c&ab_channel=ScottMarley)
+[Functions for drawing on ILLI9341](https://doc-tft-espi.readthedocs.io/graphics/)
+[What is root mean square](https://www.youtube.com/watch?v=9CI4Y2V4sxE&ab_channel=AkashMurthy)
