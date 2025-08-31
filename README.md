@@ -1,4 +1,4 @@
-# INMP441-dynamic-music-visualizer
+# ESP32-INMP441-dynamic-audio-visualizer
 ## PURPOSE:
 - Music visualizer using esp32 and inmp441 mic that takes live music/ audio and displays it on ili9341 tft lcd screen, via a bar graph/ circular rotating display
 - Inspired by music visualizers that can be found when you search up audios for certain songs. I wanted to make my own version using hardware.
