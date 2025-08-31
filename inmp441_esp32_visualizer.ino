@@ -55,7 +55,7 @@ int barwidth;
 float smoothedBands[41];   // Match numOfBars
 float smoothingFactor = 0.6;  // Adjust for smoothness
 
-static const float noiseFloor = -17.0;  // quietest noise that will be displayed
+static const float noiseFloor = -17.0;  // quietest noise that will be displayed- adjust if needed depending on your noise environment
 static const float maxNoise   = 0.0;   // highest noise to be displayed
 
 
@@ -97,7 +97,7 @@ void i2s_initialization() {
 //   }
 // }
 
-void performFFT() {
+void performFFT() { //Fast fourier transform to convert wave form into actual bins to be converted into band displays
   memset(bandValues, 0, sizeof(bandValues));  //empty all the bandvalues so it doesnt add up
 
   int32_t peak = 1;
