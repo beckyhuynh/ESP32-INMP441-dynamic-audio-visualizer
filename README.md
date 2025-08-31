@@ -20,7 +20,7 @@ Product:
 
 Demonstration:!!!!!
 - please click on this GOOGLE DRIVE link for the different visualizers to different songs. suggestions for new songs? :>
-
+https://drive.google.com/drive/folders/12u9cZiUxfz3R1oFt0d3_5P34Rd-_aWLp?usp=sharing
 
 
 Sources for some of the research I did that allowed me to dive deeper into the project: special thanks to scott marley for making the fft band logic clearer to understand:
