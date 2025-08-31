@@ -26,8 +26,14 @@
 </p>
 
 ### 3. Hardware overview:
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7b151cea-e7f3-47e1-9e80-303d04a33fc7" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae7de784-8e72-4134-ba54-cb60573890e1" />
+<p align="center">
+  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/7b151cea-e7f3-47e1-9e80-303d04a33fc7" />
+</p>
+
+<p align="center">
+  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/ae7de784-8e72-4134-ba54-cb60573890e1" />
+</p>
+
 
 
 ## 🎆🎆VISUAL DEMO 🎆🎆
