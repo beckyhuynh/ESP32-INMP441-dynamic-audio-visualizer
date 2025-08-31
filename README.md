@@ -47,7 +47,7 @@ https://drive.google.com/drive/folders/12u9cZiUxfz3R1oFt0d3_5P34Rd-_aWLp?usp=sha
 
   
 ## SOURCES
-### Sources for the research I did that allowed me to dive deeper into the project:
+### Sources for the research I did that allowed me to dive deeper into the project, some of the screenshots and code are adapted from here: 
 
 - [How to use ESP32 with the ILLI9341 board (libraries and more)](https://randomnerdtutorials.com/esp32-tft-touchscreen-display-2-8-ili9341-arduino/)
 - [Code test to see if your isolated mic works](https://github.com/atomic14/esp32-i2s-mic-test)
