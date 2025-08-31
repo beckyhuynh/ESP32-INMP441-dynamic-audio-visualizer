@@ -18,8 +18,10 @@ Product:
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae7de784-8e72-4134-ba54-cb60573890e1" />
 
 
-Demonstration:
-- will put youtube link later for actual songs
+Demonstration:!!!!!
+- please click on this GOOGLE DRIVE link for the different visualizers to different songs. suggestions for new songs? :>
+
+
 
 Sources for some of the research I did that allowed me to dive deeper into the project: special thanks to scott marley for making the fft band logic clearer to understand:
 
@@ -31,5 +33,6 @@ https://doc-tft-espi.readthedocs.io/graphics/
 https://www.youtube.com/watch?v=9CI4Y2V4sxE&ab_channel=AkashMurthy
 
 Important notice:!!
-This project works best with some kind of noise amplifier or LOUD music playing. I used my fender amp to make the music more alive for the mic. The mic is not very sensitive with regular microphone or laptop speaker, the bars will barely spike. This is likely attributed to cheaper manufacturing of the mic, but for my purpose it works. :>
+This project works best with some kind of noise amplifier or LOUD music playing. I used my fender amp to make the music more alive for the mic. The mic is not very sensitive with regular microphone or laptop speaker, the bars will barely spike. This might be due to the manufacturing of the mic, since it is not a professional recording mic, or could also be due to the root mean square method which better detects PEAKS in loud sounds.
+
 
