@@ -1,11 +1,11 @@
 # INMP441-dynamic-music-visualizer
+##PURPOSE:
 Music visualizer using esp32 and inmp441 mic that takes live music/ audio and displays it on ili9341 tft lcd screen, via a bar graph/ circular rotating display
-
-Inspired by youtube visualizers whenever i looked up songs: I like music and wanted to make my own visualizer
+Inspired by music visualizers that can be found when you search up audios for certain songs. I wanted to make my own version using hardware.
 <img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/80d987a9-5d6b-4a62-965f-78e155c0d62f" />
 
 
-Wiring guide:
+WIRING GUIDE-
 From esp32 to tft lcd
 <img width="975" height="878" alt="image" src="https://github.com/user-attachments/assets/0c9e6e78-e8b9-406a-a6df-08e9d42102d8" />
 
@@ -22,7 +22,8 @@ Demonstration:!!!!!
 - please click on this GOOGLE DRIVE link for the different visualizers to different songs. suggestions for new songs? :>
 https://drive.google.com/drive/folders/12u9cZiUxfz3R1oFt0d3_5P34Rd-_aWLp?usp=sharing
 
-
+Important notice:!!
+This project works best with some kind of noise amplifier or LOUD music playing. I used my fender amp to make the music more alive for the mic. The mic is not very sensitive with regular microphone or laptop speaker, the bars will barely spike. This might be due to the manufacturing of the mic, since it is not a professional recording mic, or could also be due to the root mean square method which better detects PEAKS in loud sounds.
 Sources for some of the research I did that allowed me to dive deeper into the project: special thanks to scott marley for making the fft band logic clearer to understand:
 
 https://github.com/atomic14/esp32-i2s-mic-test
@@ -31,8 +32,3 @@ https://www.youtube.com/watch?v=m8LwPNXqK9o&t=98s&ab_channel=ThatProject
 https://www.youtube.com/watch?v=Mgh2WblO5_c&ab_channel=ScottMarley
 https://doc-tft-espi.readthedocs.io/graphics/
 https://www.youtube.com/watch?v=9CI4Y2V4sxE&ab_channel=AkashMurthy
-
-Important notice:!!
-This project works best with some kind of noise amplifier or LOUD music playing. I used my fender amp to make the music more alive for the mic. The mic is not very sensitive with regular microphone or laptop speaker, the bars will barely spike. This might be due to the manufacturing of the mic, since it is not a professional recording mic, or could also be due to the root mean square method which better detects PEAKS in loud sounds.
-
-
