@@ -22,7 +22,7 @@
 
 #### - From esp32 to mic:
 <p align="center">
-  <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/9a7b7f42-4fab-4f4d-bd72-12599431b6f3" />
+  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9a7b7f42-4fab-4f4d-bd72-12599431b6f3" />
 </p>
 
 ### 3. Hardware overview:
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/ae7de784-8e72-4134-ba54-cb60573890e1" />
+  <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/ae7de784-8e72-4134-ba54-cb60573890e1" />
 </p>
 
 
