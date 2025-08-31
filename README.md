@@ -1,4 +1,5 @@
 # ESP32-INMP441-dynamic-audio-visualizer
+## **FINAL DEMO LINKED NEAR THE END OF THIS README**
 ## PURPOSE:
 - Music visualizer using esp32 and inmp441 mic that takes live music/ audio and displays it on ili9341 tft lcd screen, via a bar graph/ circular rotating display
 - Inspired by music visualizers that can be found when you search up audios for certain songs. I wanted to make my own version using hardware.
@@ -7,11 +8,12 @@
   <img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/80d987a9-5d6b-4a62-965f-78e155c0d62f" />
 </p>
 
-## HARDWARE:
-### 1. Parts used: (all parts can be found on Amazon)
+## HARDWARE: (setup)
+### 1. Main parts used: (all parts can be found on Amazon)
 - ESP32
 - ILLI9341 TFT LCD display
 - INMP441 microphone (**make sure you solder the legs(pins) onto the circular main part before using, most mics come delivered without being soldered**)
+- Wires
 
 ### 2. Hardware overview:
 <p align="center">
@@ -34,6 +36,11 @@
   <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9a7b7f42-4fab-4f4d-bd72-12599431b6f3" />
 </p>
 
+## SOFTWARE (setup):
+- refer to attached source code
+- main lines that can be changed:
+1. 58, depending on your testing environment, play around with values to filter out low noise that you dont want displayed 
+2. 
 
 ## 🎆🎆FINAL VISUAL DEMO 🎆🎆
 - GOOGLE DRIVE link for the different visualizers to different songs. suggestions for new songs? :>
@@ -42,7 +49,7 @@ https://drive.google.com/drive/folders/12u9cZiUxfz3R1oFt0d3_5P34Rd-_aWLp?usp=sha
 
 ## Important notice and final notes:
 - This project works best with some kind of noise amplifier or LOUD music playing. I used my fender guitar amp to make the music more alive for the mic.
-- The mic is not very sensitive with regular microphone or laptop speaker, the bars will barely spike.
+- The mic is not very sensitive with regular microphone or laptop speaker, the bars will spike very little.
 - This might be due to the manufacturing of the mic, since it is not a professional recording mic, or could also be due to the root mean square method which better detects PEAKS in loud sounds.
 
   
