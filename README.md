@@ -42,7 +42,9 @@
 **To run this project, simply wire per hardware guide, download needed libraries, copy the code into ArduinoIDE, change the following lines and hit play on any songs or sounds you want :)**
 
 ### libraries to download:
-- 
+- arduinoFFT by Enrique
+- TFT_eSPI by Bodmer
+- follow set ups for esp32 board linked below if you haven't already
 
 ### main lines that can be changed:
 1. 58, depending on your testing environment, play around with values to filter out low noise that you dont want displayed 
@@ -54,7 +56,7 @@
 https://drive.google.com/drive/folders/12u9cZiUxfz3R1oFt0d3_5P34Rd-_aWLp?usp=sharing
 
 
-## Important notice and final notes:
+## Important notices and final notes:
 - This project works best with some kind of noise amplifier or LOUD music playing. I used my fender guitar amp to make the music more alive for the mic.
 - The mic is not very sensitive with regular microphone or laptop speaker, the bars will spike very little.
 - This might be due to the manufacturing of the mic, since it is not a professional recording mic, or could also be due to the root mean square method which better detects PEAKS in loud sounds.
