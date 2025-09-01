@@ -38,9 +38,16 @@
 
 ## SOFTWARE (setup):
 - refer to attached source code
-- main lines that can be changed:
+
+**To run this project, simply wire per hardware guide, download needed libraries, copy the code into ArduinoIDE, change the following lines and hit play on any songs or sounds you want :)**
+
+### libraries to download:
+- 
+
+### main lines that can be changed:
 1. 58, depending on your testing environment, play around with values to filter out low noise that you dont want displayed 
-2. 
+2. 165, change to constrain max bar height (default is set at 90% of the screen's height)
+3. 169-221, comment out the different showSpectrum functions depending on what display you want to show
 
 ## 🎆🎆FINAL VISUAL DEMO 🎆🎆
 - GOOGLE DRIVE link for the different visualizers to different songs. suggestions for new songs? :>
